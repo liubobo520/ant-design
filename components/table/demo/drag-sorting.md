@@ -100,7 +100,7 @@ const App: React.FC = () => {
   const [data, setData] = useState([
     {
       key: '1',
-      name: 'John Brown',
+      name: 'John Brown1',
       age: 32,
       address: 'New York No. 1 Lake Park',
     },
